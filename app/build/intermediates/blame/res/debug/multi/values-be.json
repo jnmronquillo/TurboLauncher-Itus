@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-be\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 68,
+                        "endOffset": 866
+                    }
+                }
+            }
+        ]
+    }
+]

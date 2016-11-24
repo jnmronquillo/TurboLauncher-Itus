@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator_marker.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\page_indicator_marker.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hidden_apps_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\hidden_apps_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transition_effect_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\transition_effect_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_live_wallpaper_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_picker_live_wallpaper_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_folder.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\user_folder.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_image_picker_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_target_bar.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\drop_target_bar.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_application.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\apps_customize_application.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folder_icon.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\folder_icon.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\add_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_pane.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\apps_customize_pane.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_title_overflow_menu.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\dialog_title_overflow_menu.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_error.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\appwidget_error.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_content_page_indicator_marker.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\custom_content_page_indicator_marker.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotseat.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\hotseat.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_apps_button.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\all_apps_button.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rename_folder.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\rename_folder.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hidden_apps_list.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\hidden_apps_list.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_pane.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\settings_pane.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workspace_screen.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\workspace_screen.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_widget.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\apps_customize_widget.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_indicator.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\page_indicator.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hidden_folder_apps_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\hidden_folder_apps_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_set_wallpaper.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_transitions_screen.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\settings_transitions_screen.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_picker.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_header_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\preference_header_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_pane_list_header.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\settings_pane_list_header.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hidden_folder.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\hidden_folder.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\application.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\application.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overview_panel.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\overview_panel.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_cropper.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_cropper.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_progressbar.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_pane_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\settings_pane_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\market_button.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\market_button.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_drop_target_bar.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\search_drop_target_bar.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_picker_third_party_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\theme_preview.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout\\theme_preview.xml"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw320dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 60,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 60,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw320dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 60,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 58,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw320dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 58,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 58,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw320dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 58,
+                        "endOffset": 906
+                    }
+                }
+            }
+        ]
+    }
+]

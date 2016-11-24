@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\screenpanel_hover.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw720dp-mdpi\\screenpanel_hover.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\screenpanel.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw720dp-mdpi\\screenpanel.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw720dp-mdpi\\workspace_bg.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw720dp-mdpi\\workspace_bg.9.png"
+    }
+]

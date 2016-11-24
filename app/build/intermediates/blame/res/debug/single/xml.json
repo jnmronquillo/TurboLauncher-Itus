@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\theme_settings.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\xml\\theme_settings.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\update_workspace.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\xml\\update_workspace.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_workspace.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\xml\\default_workspace.xml"
+    }
+]

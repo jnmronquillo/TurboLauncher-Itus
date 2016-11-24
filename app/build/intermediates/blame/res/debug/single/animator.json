@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\animator\\enter_from_left.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\animator\\enter_from_left.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\animator\\exit_out_left.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\animator\\exit_out_left.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\animator\\exit_out_right.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\animator\\exit_out_right.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\animator\\enter_from_right.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\animator\\enter_from_right.xml"
+    }
+]

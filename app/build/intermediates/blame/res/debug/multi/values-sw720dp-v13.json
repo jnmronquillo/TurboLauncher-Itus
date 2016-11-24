@@ -1,0 +1,338 @@
+[
+    {
+        "outputFile": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 45,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 64,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 64,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 64,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 64,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 64,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 64,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 71,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 71,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 44,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 44,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 44,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 45,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 45,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 45,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 45,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 64,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 64,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 62,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 62,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 57,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 57,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 75,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\config.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 75,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-sw720dp\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 978
+                    }
+                }
+            }
+        ]
+    }
+]

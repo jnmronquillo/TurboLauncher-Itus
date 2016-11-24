@@ -1,0 +1,162 @@
+# view res/layout/actionbar_set_wallpaper.xml #generated:21
+-keep class com.phonemetra.turbo.launcher.AlphaDisableableButton { <init>(...); }
+
+# view res/layout/apps_customize_pane.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.AppsCustomizeLayout { <init>(...); }
+
+# view res/layout/apps_customize_pane.xml #generated:26
+-keep class com.phonemetra.turbo.launcher.AppsCustomizePagedView { <init>(...); }
+
+# view res/layout/application.xml #generated:17
+# view res/layout/folder_icon.xml #generated:31
+-keep class com.phonemetra.turbo.launcher.BubbleTextView { <init>(...); }
+
+# view res/layout/hotseat.xml #generated:21
+# view res/layout/user_folder.xml #generated:29
+# view res/layout/workspace_screen.xml #generated:17
+-keep class com.phonemetra.turbo.launcher.CellLayout { <init>(...); }
+
+# view res/layout/wallpaper_picker_image_picker_item.xml #generated:17
+# view res/layout/wallpaper_picker_item.xml #generated:17
+# view res/layout/wallpaper_picker_live_wallpaper_item.xml #generated:17
+# view res/layout/wallpaper_picker_third_party_item.xml #generated:17
+-keep class com.phonemetra.turbo.launcher.CheckableFrameLayout { <init>(...); }
+
+# view res/layout/wallpaper_cropper.xml #generated:25
+# view res/layout/wallpaper_picker.xml #generated:26
+-keep class com.phonemetra.turbo.launcher.CropView { <init>(...); }
+
+# view res/layout/drop_target_bar.xml #generated:22
+-keep class com.phonemetra.turbo.launcher.DeleteDropTarget { <init>(...); }
+
+# view land\res/layout-land/launcher.xml #generated:27
+# view port\res/layout-port/launcher.xml #generated:27
+# view sw720dp-v13\res/layout-sw720dp-v13/launcher.xml #generated:27
+-keep class com.phonemetra.turbo.launcher.DragLayer { <init>(...); }
+
+# view port\res/layout-port/launcher.xml #generated:63
+# view sw720dp-v13\res/layout-sw720dp-v13/launcher.xml #generated:62
+-keep class com.phonemetra.turbo.launcher.DrawableStateProxyView { <init>(...); }
+
+# view res/layout/user_folder.xml #generated:17
+-keep class com.phonemetra.turbo.launcher.Folder { <init>(...); }
+
+# view res/layout/user_folder.xml #generated:53
+-keep class com.phonemetra.turbo.launcher.FolderEditText { <init>(...); }
+
+# view res/layout/folder_icon.xml #generated:17
+-keep class com.phonemetra.turbo.launcher.FolderIcon { <init>(...); }
+
+# view land\res/layout-land/qsb.xml #generated:22
+# view land\res/layout-land/qsb.xml #generated:37
+-keep class com.phonemetra.turbo.launcher.HolographicImageView { <init>(...); }
+
+# view port\res/layout-port/qsb.xml #generated:23
+# view port\res/layout-port/qsb.xml #generated:48
+# view sw720dp-v13\res/layout-sw720dp-v13/qsb.xml #generated:24
+# view sw720dp-v13\res/layout-sw720dp-v13/qsb.xml #generated:49
+-keep class com.phonemetra.turbo.launcher.HolographicLinearLayout { <init>(...); }
+
+# view res/layout/hotseat.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.Hotseat { <init>(...); }
+
+# view res/layout/drop_target_bar.xml #generated:33
+-keep class com.phonemetra.turbo.launcher.InfoDropTarget { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.phonemetra.turbo.launcher.InstallShortcutReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.phonemetra.turbo.launcher.Launcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.phonemetra.turbo.launcher.LauncherApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.phonemetra.turbo.launcher.LauncherProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.phonemetra.turbo.launcher.LauncherWallpaperPickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.phonemetra.turbo.launcher.PackageChangedReceiver { <init>(...); }
+
+# view res/layout/page_indicator.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.PageIndicator { <init>(...); }
+
+# view res/layout/custom_content_page_indicator_marker.xml #generated:16
+# view res/layout/page_indicator_marker.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.PageIndicatorMarker { <init>(...); }
+
+# view res/layout/apps_customize_application.xml #generated:17
+-keep class com.phonemetra.turbo.launcher.PagedViewIcon { <init>(...); }
+
+# view res/layout/apps_customize_widget.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.PagedViewWidget { <init>(...); }
+
+# view res/layout/apps_customize_widget.xml #generated:28
+-keep class com.phonemetra.turbo.launcher.PagedViewWidgetImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:130
+-keep class com.phonemetra.turbo.launcher.PreloadReceiver { <init>(...); }
+
+# view res/layout/search_drop_target_bar.xml #generated:16
+-keep class com.phonemetra.turbo.launcher.SearchDropTargetBar { <init>(...); }
+
+# view res/layout/overview_panel.xml #generated:18
+-keep class com.phonemetra.turbo.launcher.SlidingUpPanelLayout { <init>(...); }
+
+# view res/xml/theme_settings.xml #generated:21
+-keep class com.phonemetra.turbo.launcher.ThemePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.phonemetra.turbo.launcher.ThemeSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.phonemetra.turbo.launcher.UninstallShortcutReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.phonemetra.turbo.launcher.UserInitializeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.phonemetra.turbo.launcher.WallpaperCropActivity { <init>(...); }
+
+# view res/layout/wallpaper_picker.xml #generated:21
+-keep class com.phonemetra.turbo.launcher.WallpaperRootView { <init>(...); }
+
+# view land\res/layout-land/launcher.xml #generated:34
+# view port\res/layout-port/launcher.xml #generated:33
+# view sw720dp-v13\res/layout-sw720dp-v13/launcher.xml #generated:34
+-keep class com.phonemetra.turbo.launcher.Workspace { <init>(...); }
+
+# view res/layout/settings_pane.xml #generated:128
+-keep class com.phonemetra.turbo.launcher.list.PinnedHeaderListView { <init>(...); }
+
+# view res/layout/hidden_apps_list_item.xml #generated:2
+-keep class com.phonemetra.turbo.launcher.widget.CheckableLinearLayout { <init>(...); }
+
+# view res/layout/hidden_apps_list_item.xml #generated:29
+-keep class com.phonemetra.turbo.launcher.widget.InertCheckBox { <init>(...); }
+
+# onClick res/layout/theme_preview.xml #generated:25
+-keepclassmembers class * { *** applyTheme(...); }
+
+# onClick res/layout/theme_preview.xml #generated:32
+-keepclassmembers class * { *** getThemes(...); }
+
+# onClick res/layout/market_button.xml #generated:16
+# onClick sw720dp-v13\res/layout-sw720dp-v13/market_button.xml #generated:16
+-keepclassmembers class * { *** onClickAppMarketButton(...); }
+
+# onClick land\res/layout-land/qsb.xml #generated:22
+# onClick port\res/layout-port/qsb.xml #generated:23
+# onClick sw720dp-v13\res/layout-sw720dp-v13/qsb.xml #generated:24
+-keepclassmembers class * { *** onClickSearchButton(...); }
+
+# onClick land\res/layout-land/qsb.xml #generated:37
+# onClick port\res/layout-port/launcher.xml #generated:63
+# onClick port\res/layout-port/qsb.xml #generated:48
+# onClick sw720dp-v13\res/layout-sw720dp-v13/launcher.xml #generated:62
+# onClick sw720dp-v13\res/layout-sw720dp-v13/qsb.xml #generated:49
+-keepclassmembers class * { *** onClickVoiceButton(...); }
+

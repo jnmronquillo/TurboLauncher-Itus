@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling1.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\bg_cling1.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling2.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\bg_cling2.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\workspace_bg.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling3.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\bg_cling3.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\ic_home_voice_search_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-land-mdpi\\ic_home_voice_search_holo.png"
+    }
+]

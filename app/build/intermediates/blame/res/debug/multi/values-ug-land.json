@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ug-land\\values-ug-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-ug-land\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 68,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 78,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-ug-land\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 78,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 66,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\values-ug-land\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 66,
+                        "endOffset": 1013
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+    <item>Normal</item>
+    <item>Dënn</item>
+    <item>Schmuel</item>
+  </string-array>
+    <string-array name="transition_effect_entries">
+    <item>Keen</item>
+    <item>Erazoomen</item>
+    <item>Erauszoomen</item>
+    <item>Eroprotéieren</item>
+    <item>Erofrotéieren</item>
+    <item>Wierfel bannen</item>
+    <item>Wierfel baussen</item>
+    <item>Koup</item>
+    <item>Akkordeon</item>
+    <item>Ëmdréinen</item>
+    <item>Zylinder bannen</item>
+    <item>Zylinder baussen</item>
+    <item>Karussell</item>
+    <item>Iwwersiicht</item>
+  </string-array>
+    <string name="application_copyright">Copyright \\u00A9 2015 Phonemetra</string>
+    <string name="default_screen_button_text">Standardsäit</string>
+    <string name="filter_button_text">Filteren</string>
+    <string name="menu_hidden_apps_delete">Zrécksetzen</string>
+    <string name="preferences_application_title">App</string>
+    <string name="preferences_interface_dock_title">Dock</string>
+    <string name="preferences_interface_drawer_apps_category">Apps</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_title">Ofkierzungen ewechhuelen</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_title">Widgets ewechhuelen</string>
+    <string name="preferences_interface_drawer_title">App-Iwwersiicht</string>
+    <string name="preferences_interface_general_icons_category">Symboler</string>
+    <string name="preferences_interface_general_icons_large_summary">Grouss Symboler fir d\'Apps um Startschierm a bei der App-Iwwersiicht benotzen</string>
+    <string name="preferences_interface_general_icons_large_title">Grouss Symboler</string>
+    <string name="preferences_interface_general_icons_text_style_summary">Schrëftaart a -stil vum Text ënner de Symboler</string>
+    <string name="preferences_interface_general_icons_text_style_title">Schrëftstil</string>
+    <string name="preferences_interface_general_title">Allgemeng</string>
+    <string name="preferences_interface_homescreen_search_summary">D\'Sichfeld um ieweschte Bord vum Schierm ëmmer uweisen</string>
+    <string name="preferences_interface_homescreen_search_title">Sichkëscht</string>
+    <string name="preferences_interface_homescreen_title">Startschierm</string>
+    <string name="preferences_title">Astellungen</string>
+    <string name="scrolling_fade_adjacent">Säiten um Rand ausblenden</string>
+    <string name="scrolling_page_outlines">Säiterummen</string>
+    <string name="sort_button_text">Zortéieren</string>
+    <string name="sort_mode_install_time">Installatiounszäit</string>
+    <string name="sort_mode_launch_count">Startunzuel</string>
+    <string name="sort_mode_title">Titel</string>
+    <string name="transition_effect_button_text">Scrolleffekt</string>
+    <string name="wallpaper_scroll">Hannergrondbild scrollen</string>
+</resources>

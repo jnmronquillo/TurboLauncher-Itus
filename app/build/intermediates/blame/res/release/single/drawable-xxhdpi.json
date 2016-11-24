@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tile_picker_selected.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tile_picker_selected.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_google_logo_normal_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_google_logo_normal_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\hotseat_bg_panel.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\hotseat_bg_panel.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_search_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_search_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\screenpanel_hover.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\screenpanel_hover.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_allapps.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_allapps.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_pageindicator_add.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pageindicator_add.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_resize_handle_top.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_resize_handle_top.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_resize_frame_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_resize_frame_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_wallpaper_thumb.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\default_wallpaper_thumb.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_wallpaper.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\default_wallpaper.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_trashcan_normal_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_trashcan_normal_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_resize_handle_right.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_resize_handle_right.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\page_hover_right_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\page_hover_right_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_theme_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_theme_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_resize_handle_left.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_resize_handle_left.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tile_shadow_bottom.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tile_shadow_bottom.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_info_active_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_info_active_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_selected_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\page_hover_left_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\page_hover_left_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\focused_bg.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\focused_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\workspace_bg.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_pageindicator_current.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pageindicator_current.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_trashcan_active_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_trashcan_active_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tile_picker_pressed.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tile_picker_pressed.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\portal_ring_inner_nolip_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\portal_ring_inner_nolip_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_default_screen_pressed.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_info_normal_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_info_normal_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_setting_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_setting_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_unselected_pressed_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_voice_search_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\folder_lock_light.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\folder_lock_light.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_images.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_images.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_all_apps_holo_dark.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_all_apps_holo_dark.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\search_bg.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\search_bg.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_widget.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_widget.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\portal_ring_inner_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_pageindicator_default.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pageindicator_default.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_selected_focused_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_tile.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_tile.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_theme.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_theme.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\search_bg_panel.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\search_bg_panel.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_clear_active_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_clear_active_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\hotseat_scrubber_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_container_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_container_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tile_shadow_top.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tile_shadow_top.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\portal_ring_rest.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\portal_ring_rest.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_wallpaper_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_wallpaper_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\folder_lock.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\folder_lock.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_setting.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\widget_resize_handle_bottom.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\widget_resize_handle_bottom.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\overscroll_glow_left.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\overscroll_glow_left.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\hotseat_track_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_clear_normal_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_clear_normal_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\screenpanel.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\screenpanel.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\overscroll_glow_right.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\overscroll_glow_right.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_search_normal_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_search_normal_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\search_frame.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\search_frame.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_unselected_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\portal_ring_outer_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\folder_unlock.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\folder_unlock.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_voice_search_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_voice_search_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_home_google_logo_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_google_logo_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_allapps_pressed.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_allapps_pressed.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_widget_preview_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\default_widget_preview_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_widget_pressed_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_widget_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_default_screen.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default_screen.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\portal_container_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\portal_container_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tile_picker_focused.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tile_picker_focused.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher_home.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_unselected_focused_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\tab_selected_pressed_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_wallpaper.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_wallpaper.png"
+    }
+]

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+    <item>Regulær</item>
+    <item>Lys</item>
+    <item>Kondenseret</item>
+  </string-array>
+    <string-array name="transition_effect_entries">
+    <item>Ingen</item>
+    <item>Zoom ind</item>
+    <item>Zoom ud</item>
+    <item>Rotér op</item>
+    <item>Rotér ned</item>
+    <item>Terning ind</item>
+    <item>Terning ud</item>
+    <item>Stak</item>
+    <item>Harmonika</item>
+    <item>Flip</item>
+    <item>Cylinder ind</item>
+    <item>Cylinder ud</item>
+    <item>Karrusel</item>
+    <item>Overblik</item>
+  </string-array>
+    <plurals name="number_of_items_selected">
+    <item msgid="7464587177007785408" quantity="zero">"%1$d er valgt"</item>
+    <item msgid="142482526010824029" quantity="one">"%1$d er valgt"</item>
+    <item msgid="1418352074806573570" quantity="other">"%1$d er valgt"</item>
+  </plurals>
+    <string msgid="2603132375383800483" name="accessibility_all_apps_button">"Apps"</string>
+    <string msgid="6466114477993744621" name="accessibility_delete_button">"Fjern"</string>
+    <string msgid="1628520399424565142" name="accessibility_search_button">"Søg"</string>
+    <string msgid="4637324840434406584" name="accessibility_voice_search_button">"Stemmesøgning"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Appen er ikke installeret."</string>
+    <string msgid="9110807029020582876" name="all_apps_button_label">"Apps"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"Startskærm"</string>
+    <string msgid="8338254712932127413" name="announce_selection">"<ns1:g id="LABEL">%1$s</ns1:g> blev valgt"</string>
+    <string name="application_copyright">Copyright \\u00A9 2015 Phonemetra</string>
+    <string msgid="370005296147130238" name="apps_customize_apps_scroll_format">"Apps-side %1$d ud af %2$d"</string>
+    <string msgid="3106209519974971521" name="apps_customize_widgets_scroll_format">"Widgets-side %1$d ud af %2$d"</string>
+    <string msgid="374688303047985416" name="cab_app_selection_text">"1 app er valgt"</string>
+    <string msgid="7999992513806132118" name="cab_folder_selection_text">"1 mappe er valgt"</string>
+    <string msgid="8593722221450362342" name="cab_menu_app_info">"Oplysninger om appen"</string>
+    <string msgid="7435191475867183689" name="cab_menu_delete_app">"Afinstaller appen"</string>
+    <string msgid="2103811025667946450" name="cab_shortcut_selection_text">"1 genvej er valgt"</string>
+    <string msgid="1833458597831541241" name="cab_widget_selection_text">"1 widget er valgt"</string>
+    <string msgid="7009134900002915310" name="cancel_action">"Annuller"</string>
+    <string msgid="6106288382070760318" name="completely_out_of_space">"Der er ikke mere plads på dine startskærme."</string>
+    <string msgid="8334345984491368009" name="crop_wallpaper">"Beskær baggrund"</string>
+    <string name="default_screen_button_text">Standardskærm</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Side %1$d ud af %2$d"</string>
+    <string msgid="1822697352535677073" name="delete_target_label">"Fjern"</string>
+    <string msgid="5100785476250872595" name="delete_target_uninstall_label">"Afinstaller"</string>
+    <string msgid="8083826390278958980" name="delete_zone_label_all_apps">"Afinstaller"</string>
+    <string msgid="449755632749610895" name="delete_zone_label_all_apps_system_app">"Afinstaller opdatering"</string>
+    <string msgid="4009607676751398685" name="delete_zone_label_workspace">"Fjern"</string>
+    <string name="drawer_settings">INDSTILLINGER FOR OVERSIGT</string>
+    <string name="drawer_sorting_text">Sorteringstilstand</string>
+    <string msgid="1530253749244328964" name="dream_name">"Rocket Launcher"</string>
+    <string msgid="3165821058322217155" name="external_drop_widget_error">"Elementet kunne ikke trækkes til startskærmen."</string>
+    <string msgid="3486317258037690630" name="external_drop_widget_pick_title">"Vælg den widget, du vil oprette"</string>
+    <string name="filter_button_text">Filtrér</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Mappen er lukket"</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"Unavngiven mappe"</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"Mappe: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Mappen er åben, <ns1:g id="WIDTH">%1$d</ns1:g> gange <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Mappen er omdøbt til <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="1884479294466410023" name="folder_tap_to_close">"Tryk for at lukke mappen"</string>
+    <string msgid="9191075570492871147" name="folder_tap_to_rename">"Tryk for at gemme det nye navn"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"Der er problemer med indlæsning af widgetten"</string>
+    <string msgid="3797214114206693605" name="group_applications">"Apps"</string>
+    <string msgid="6012256992764410535" name="group_shortcuts">"Genveje"</string>
+    <string msgid="1569030723286851002" name="group_widgets">"Widgets"</string>
+    <string name="hidden_apps_title">Skjulte apps</string>
+    <string name="hide_icon_labels">Skjul ikontekster</string>
+    <string msgid="7658288663002113681" name="home">"Startskærm"</string>
+    <string name="home_screen_search_text">Søgelinje</string>
+    <string name="home_screen_settings">INDSTILLINGER FOR STARTSKÆRM</string>
+    <string msgid="9139760413395605841" name="hotseat_out_of_space">"Der er ikke mere plads i hotseat."</string>
+    <string msgid="8053346143994679532" name="info_target_label">"Oplysninger om appen"</string>
+    <string msgid="1211534262129849507" name="invalid_hotseat_item">"Denne widget er for stor til hotseat."</string>
+    <string name="larger_icons_text">Større ikoner</string>
+    <string name="launcher_settings">INDSTILLINGER FOR LAUNCHER</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"Tryk på en widget, og hold den nede for at vælge."</string>
+    <string msgid="2619650989819296998" name="market">"Køb i Google Play Butik"</string>
+    <string name="menu_hidden_apps_delete">Nulstil</string>
+    <string msgid="1264911265836810421" name="menu_item_add_item">"Føj til startskærm"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"Der er ikke mere plads på denne startskærm."</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Tillader, at en app tilføjer genveje uden brugerens indgriben."</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"Tillader, at appen læser indstillingerne og genvejene på startskærmen."</string>
+    <string msgid="5134129545001836849" name="permdesc_uninstall_shortcut">"Tillader, at appen fjerner genveje uden brugerens indgriben."</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"Tillader, at appen ændrer indstillingerne og genvejene på startskærmen."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"installer genveje"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"læs indstillinger og genveje for startskærmen"</string>
+    <string msgid="864595034498083837" name="permlab_uninstall_shortcut">"afinstaller genveje"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"skriv indstillinger og genveje for startskærmen"</string>
+    <string msgid="1272073934062909527" name="pick_image">"Vælg billede"</string>
+    <string msgid="8179698221502010609" name="pick_wallpaper">"Baggrunde"</string>
+    <string name="preferences_application_title">App</string>
+    <string name="preferences_interface_dock_title">Docklinje</string>
+    <string name="preferences_interface_drawer_apps_category">Apps</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_summary">Fjern genveje til skjulte apps fra startskærmen</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_title">Fjern genveje</string>
+    <string name="preferences_interface_drawer_hidden_apps_summary">Skjul apps fra oversigten</string>
+    <string name="preferences_interface_drawer_hidden_apps_title">Skjulte apps</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_summary">Fjern widgets fra skjulte apps fra startskærmen</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_title">Fjern widgets</string>
+    <string name="preferences_interface_drawer_hide_icon_labels_summary">Skjul ikontekster i oversigten</string>
+    <string name="preferences_interface_drawer_hide_icon_labels_title">Skjul ikontekster</string>
+    <string name="preferences_interface_drawer_summary">Oversigt over apps og widgets</string>
+    <string name="preferences_interface_drawer_title">Oversigt</string>
+    <string name="preferences_interface_general_icons_category">Ikoner</string>
+    <string name="preferences_interface_general_icons_large_summary">Brug ekstra store app-ikoner på startskærm og i oversigten</string>
+    <string name="preferences_interface_general_icons_large_title">Større ikoner</string>
+    <string name="preferences_interface_general_icons_text_style_summary">Fontvariant og -stilart til ikontekster</string>
+    <string name="preferences_interface_general_icons_text_style_title">Font til tekster</string>
+    <string name="preferences_interface_general_title">Generelt</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_summary">Skjul ikontekster på startskærmen</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_title">Skjul ikontekster</string>
+    <string name="preferences_interface_homescreen_search_summary">Vis permanent søgelinje i toppen af skærmen</string>
+    <string name="preferences_interface_homescreen_search_title">Søgelinje</string>
+    <string name="preferences_interface_homescreen_title">Startskærm</string>
+    <string name="preferences_title">Indstillinger</string>
+    <string msgid="5559600076028658757" name="rename_action">"OK"</string>
+    <string msgid="3727762225964550653" name="rename_folder_label">"Mappenavn"</string>
+    <string msgid="3771389277707820891" name="rename_folder_title">"Omdøb mappe"</string>
+    <string name="scroll_effect_text">Rulleeffekt</string>
+    <string name="scrolling_fade_adjacent">Sideovergange</string>
+    <string name="scrolling_page_outlines">Sideomrids</string>
+    <string name="setting_state_off">FRA</string>
+    <string name="setting_state_on">TIL</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"Indstillinger"</string>
+    <string msgid="9167217446062498127" name="shortcut_duplicate">"Genvejen \"<ns1:g id="NAME">%s</ns1:g>\" findes allerede."</string>
+    <string msgid="1701742129426969556" name="shortcut_installed">"Genvejen \"<ns1:g id="NAME">%s</ns1:g>\" blev oprettet."</string>
+    <string msgid="8176767991305701821" name="shortcut_uninstalled">"Genvejen \"<ns1:g id="NAME">%s</ns1:g>\" blev fjernet."</string>
+    <string name="sort_button_text">Sortér</string>
+    <string name="sort_mode_install_time">Installationstidspunkt</string>
+    <string name="sort_mode_launch_count">Antal gange brugt</string>
+    <string name="sort_mode_title">Titel</string>
+    <string name="themes_button_text">Temaer</string>
+    <string msgid="3280812711670683644" name="title_select_application">"Vælg app"</string>
+    <string msgid="6680642571148153868" name="title_select_shortcut">"Vælg genvej"</string>
+    <string name="transition_effect_button_text">Rulleeffekt</string>
+    <string msgid="7820867637514617527" name="uid_name">"Kerneapps i Android"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Dette er en systemapp, som ikke kan afinstalleres."</string>
+    <string msgid="1655953108132967972" name="wallpaper_accessibility_name">"Baggrund %1$d af %2$d"</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"Baggrunde"</string>
+    <string msgid="8095005658756613921" name="wallpaper_delete">"Slet"</string>
+    <string msgid="563973358787555519" name="wallpaper_instructions">"Angiv baggrund"</string>
+    <string name="wallpaper_scroll">Rul baggrund</string>
+    <string msgid="3201040140710381657" name="widget_adder">"Widgets"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Widgets"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="2921133187116603919" name="widgets_tab_label">"Widgets"</string>
+    <string msgid="2950174241104043327" name="workspace_description_format">"Startskærm %1$d"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Startskærm %1$d ud af %2$d"</string>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-sw720dp-v13\\market_button.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-sw720dp\\market_button.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-sw720dp-v13\\launcher.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-sw720dp\\launcher.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-sw720dp-v13\\external_widget_drop_list_item.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-sw720dp\\external_widget_drop_list_item.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-sw720dp-v13\\qsb.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-sw720dp\\qsb.xml"
+    }
+]

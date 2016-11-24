@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml-sw720dp-v13\\default_workspace.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\xml-sw720dp\\default_workspace.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\xml-sw720dp-v13\\update_workspace.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\xml-sw720dp\\update_workspace.xml"
+    }
+]

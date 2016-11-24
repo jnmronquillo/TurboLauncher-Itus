@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cab_delete_wallpapers.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\menu\\cab_delete_wallpapers.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apps_customize_sort_mode.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\menu\\apps_customize_sort_mode.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scrolling_settings.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\menu\\scrolling_settings.xml"
+    }
+]

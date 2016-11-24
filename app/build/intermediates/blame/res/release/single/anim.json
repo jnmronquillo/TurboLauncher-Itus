@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\anim\\drop_down.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\anim\\drop_down.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in_fast.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\anim\\fade_in_fast.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out_fast.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\anim\\fade_out_fast.xml"
+    }
+]

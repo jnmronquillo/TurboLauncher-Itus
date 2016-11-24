@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="extra_wallpapers">
+    </string-array>
+    <string-array name="transition_effect_drawables" translatable="false">
+        <item>@drawable/transition_none</item>
+        <item>@drawable/transition_zoomin</item>
+        <item>@drawable/transition_zoomout</item>
+        <item>@drawable/transition_rotateup</item>
+        <item>@drawable/transition_rotatedown</item>
+        <item>@drawable/transition_cubein</item>
+        <item>@drawable/transition_cubeout</item>
+        <item>@drawable/transition_stack</item>
+        <item>@drawable/transition_accordion</item>
+        <item>@drawable/transition_flip</item>
+        <item>@drawable/transition_cylinderin</item>
+        <item>@drawable/transition_cylinderout</item>
+        <item>@drawable/transition_carousel</item>
+        <item>@drawable/transition_overview</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>None</item>
+        <item>Zoom in</item>
+        <item>Zoom out</item>
+        <item>Rotate up</item>
+        <item>Rotate down</item>
+        <item>Cube in</item>
+        <item>Cube out</item>
+        <item>Stack</item>
+        <item>Accordion</item>
+        <item>Flip</item>
+        <item>Cylinder in</item>
+        <item>Cylinder out</item>
+        <item>Carousel</item>
+        <item>Overview</item>
+    </string-array>
+    <string-array name="transition_effect_values" translatable="false">
+        <item>none</item>
+        <item>zoom-in</item>
+        <item>zoom-out</item>
+        <item>rotate-up</item>
+        <item>rotate-down</item>
+        <item>cube-in</item>
+        <item>cube-out</item>
+        <item>stack</item>
+        <item>accordion</item>
+        <item>flip</item>
+        <item>cylinder-in</item>
+        <item>cylinder-out</item>
+        <item>carousel</item>
+        <item>overview</item>
+    </string-array>
+    <string-array name="wallpapers" translatable="false">
+        <item>default_wallpaper</item>
+    </string-array>
+    <bool name="allow_rotation">false</bool>
+    <bool name="center_crop">false</bool>
+    <bool name="config_largeHeap">false</bool>
+    <bool name="config_largeIcons">false</bool>
+    <bool name="config_useDropTargetDownTransition">false</bool>
+    <bool name="config_workspaceDefaultShowOutlines">false</bool>
+    <bool name="config_workspaceFadeAdjacentScreens">false</bool>
+    <bool name="hotseat_transpose_layout_with_orientation">true</bool>
+    <bool name="is_large_tablet">false</bool>
+    <bool name="is_tablet">false</bool>
+    <bool name="preferences_interface_drawer_hide_icon_labels_default">false</bool>
+    <bool name="preferences_interface_drawer_remove_hidden_apps_shortcuts_default">true</bool>
+    <bool name="preferences_interface_drawer_remove_hidden_apps_widgets_default">true</bool>
+    <bool name="preferences_interface_drawer_scrolling_fade_adjacent_default">false</bool>
+    <bool name="preferences_interface_general_icons_large_default">@bool/config_largeIcons</bool>
+    <bool name="preferences_interface_homescreen_hide_icon_labels_default">false</bool>
+    <bool name="preferences_interface_homescreen_scrolling_fade_adjacent_default">@bool/config_workspaceFadeAdjacentScreens</bool>
+    <bool name="preferences_interface_homescreen_scrolling_page_outlines_default">@bool/config_workspaceDefaultShowOutlines</bool>
+    <bool name="preferences_interface_homescreen_scrolling_wallpaper_scroll_default">true</bool>
+    <bool name="preferences_interface_homescreen_search_default">true</bool>
+    <bool name="preferences_interface_homescreen_search_screen_left_default">false</bool>
+    <color name="apps_customize_icon_text_color">#FFF</color>
+    <color name="appwidget_error_color">#FCCC</color>
+    <color name="bubble_dark_background">#20000000</color>
+    <color name="delete_target_hover_tint">#DAFF0000</color>
+    <color name="folder_items_glow_color">#FFCCCCCC</color>
+    <color name="folder_items_text_color">#FF333333</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_gray_bright">#33CCCCCC</color>
+    <color name="holo_gray_light">#33999999</color>
+    <color name="holo_green_dark">#ff669900</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="info_target_hover_tint">#DA0099CC</color>
+    <color name="listitem_selected">@color/holo_blue_light</color>
+    <color name="outline_color">#FFFFFFFF</color>
+    <color name="settings_bg_color">@color/holo_gray_light</color>
+    <color name="settings_bg_header_color">@color/holo_gray_light</color>
+    <color name="settings_bg_selected_color">@color/holo_blue_light</color>
+    <color name="settings_header_text">@color/holo_blue_light</color>
+    <color name="settings_transition_selected_color">@color/holo_blue_bright</color>
+    <color name="wallpaper_picker_translucent_gray">#66000000</color>
+    <color name="workspace_all_apps_and_delete_zone_text_color">#CCFFFFFF</color>
+    <color name="workspace_all_apps_and_delete_zone_text_shadow_color">#A0000000</color>
+    <color name="workspace_icon_text_color">#FFF</color>
+    <declare-styleable name="AppsCustomizePagedView"><attr format="integer" name="maxAppCellCountX"/><attr format="integer" name="maxAppCellCountY"/><attr format="dimension" name="widgetCellWidthGap"/><attr format="dimension" name="widgetCellHeightGap"/><attr format="integer" name="widgetCountX"/><attr format="integer" name="widgetCountY"/></declare-styleable>
+    <declare-styleable name="CellLayout"><attr format="dimension" name="cellWidth"/><attr format="dimension" name="cellHeight"/><attr format="dimension" name="widthGap"/><attr format="dimension" name="heightGap"/><attr format="dimension" name="maxGap"/></declare-styleable>
+    <declare-styleable name="DrawableStateProxyView"><attr format="integer" name="sourceViewId"/></declare-styleable>
+    <declare-styleable name="Extra"><attr format="string" name="key"/><attr format="string" name="value"/></declare-styleable>
+    <declare-styleable name="Favorite"><attr format="string" name="className"/><attr format="string" name="packageName"/><attr format="string" name="container"/><attr format="string" name="screen"/><attr format="string" name="x"/><attr format="string" name="y"/><attr format="string" name="spanX"/><attr format="string" name="spanY"/><attr format="reference" name="icon"/><attr format="reference" name="title"/><attr format="string" name="uri"/></declare-styleable>
+    <declare-styleable name="HolographicLinearLayout"><attr format="integer" name="sourceImageViewId"/><attr format="boolean" name="stateHotwordOn"/></declare-styleable>
+    <declare-styleable name="Hotseat"><attr name="cellCountX"/><attr name="cellCountY"/></declare-styleable>
+    <declare-styleable name="Include"><attr format="reference" name="workspace"/></declare-styleable>
+    <declare-styleable name="PageIndicator"><attr format="integer" name="windowSize"/></declare-styleable>
+    <declare-styleable name="PagedView"><attr format="dimension" name="pageLayoutWidthGap"/><attr format="dimension" name="pageLayoutHeightGap"/><attr format="dimension" name="pageLayoutPaddingTop"/><attr format="dimension" name="pageLayoutPaddingBottom"/><attr format="dimension" name="pageLayoutPaddingLeft"/><attr format="dimension" name="pageLayoutPaddingRight"/><attr format="reference" name="pageIndicator"/></declare-styleable>
+    <declare-styleable name="SlidingUpPanelLayout"><attr format="dimension" name="panelHeight"/><attr format="dimension" name="shadowHeight"/><attr format="dimension" name="paralaxOffset"/><attr format="color" name="fadeColor"/><attr format="integer" name="flingVelocity"/><attr format="reference" name="dragView"/><attr format="boolean" name="overlay"/></declare-styleable>
+    <declare-styleable name="StrokedTextView"><attr format="color" name="strokeColor"/><attr format="color" name="strokeTextColor"/><attr format="float" name="strokeWidth"/></declare-styleable>
+    <declare-styleable name="Workspace"><attr format="integer" name="defaultScreen"/><attr format="integer" name="cellCountX"/><attr format="integer" name="cellCountY"/></declare-styleable>
+    <dimen name="app_icon_size">48dp</dimen>
+    <dimen name="app_widget_preview_label_margin_left">2dp</dimen>
+    <dimen name="app_widget_preview_label_margin_right">2dp</dimen>
+    <dimen name="app_widget_preview_label_margin_top">4dp</dimen>
+    <dimen name="app_widget_preview_padding_left">16dp</dimen>
+    <dimen name="app_widget_preview_padding_right">16dp</dimen>
+    <dimen name="app_widget_preview_padding_top">32dp</dimen>
+    <dimen name="apps_customize_page_indicator_height">12dp</dimen>
+    <dimen name="apps_customize_page_indicator_margin">4dp</dimen>
+    <dimen name="apps_customize_page_indicator_offset">16dp</dimen>
+    <dimen name="apps_customize_tab_bar_height">52dp</dimen>
+    <dimen name="apps_customize_tab_bar_margin_top">0dp</dimen>
+    <dimen name="dragViewOffsetX">0dp</dimen>
+    <dimen name="dragViewOffsetY">0dp</dimen>
+    <dimen name="dragViewScale">12dp</dimen>
+    <dimen name="drop_target_drag_padding">14dp</dimen>
+    <dimen name="dynamic_grid_all_apps_cell_padding">18dp</dimen>
+    <dimen name="dynamic_grid_edge_margin">6dp</dimen>
+    <dimen name="dynamic_grid_icon_drawable_padding">4dp</dimen>
+    <dimen name="dynamic_grid_overview_bar_item_width">48dp</dimen>
+    <dimen name="dynamic_grid_overview_bar_spacer_width">68dp</dimen>
+    <dimen name="dynamic_grid_overview_max_icon_zone_height">120dp</dimen>
+    <dimen name="dynamic_grid_overview_min_icon_zone_height">80dp</dimen>
+    <dimen name="dynamic_grid_page_indicator_height">24dp</dimen>
+    <dimen name="dynamic_grid_search_bar_height">48dp</dimen>
+    <dimen name="dynamic_grid_search_bar_max_width">500dp</dimen>
+    <dimen name="dynamic_grid_workspace_page_spacing">8dp</dimen>
+    <dimen name="folder_lock_icon">50dp</dimen>
+    <dimen name="folder_name_padding">10dp</dimen>
+    <dimen name="folder_preview_padding">4dp</dimen>
+    <dimen name="overview_mode_page_offset">60dp</dimen>
+    <dimen name="overview_panel_bottom_padding">50dp</dimen>
+    <dimen name="overview_panel_button_spacing">36dp</dimen>
+    <dimen name="overview_panel_top_padding">20dp</dimen>
+    <dimen name="overview_scaling_padding">50dp</dimen>
+    <dimen name="scroll_zone">20dp</dimen>
+    <dimen name="settings_pane_handle">48dp</dimen>
+    <dimen name="shortcut_preview_padding_left">0dp</dimen>
+    <dimen name="shortcut_preview_padding_right">0dp</dimen>
+    <dimen name="shortcut_preview_padding_top">0dp</dimen>
+    <dimen name="sliding_panel_padding">175dp</dimen>
+    <dimen name="toolbar_button_horizontal_padding">12dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">4dip</dimen>
+    <dimen name="toolbar_external_icon_height">36dp</dimen>
+    <dimen name="toolbar_external_icon_width">36dp</dimen>
+    <dimen name="wallpaperItemIconSize">32dp</dimen>
+    <dimen name="wallpaperThumbnailHeight">94.5dp</dimen>
+    <dimen name="wallpaperThumbnailWidth">106.5dp</dimen>
+    <dimen name="workspace_max_gap">16dp</dimen>
+    <dimen name="workspace_overscroll_drawable_padding">0dp</dimen>
+    <integer name="config_appsCustomizeDragSlopeThreshold">150</integer>
+    <integer name="config_appsCustomizeFadeInTime">250</integer>
+    <integer name="config_appsCustomizeFadeOutTime">200</integer>
+    <integer name="config_appsCustomizeSpringLoadedBgAlpha">65</integer>
+    <integer name="config_appsCustomizeWorkspaceAnimationStagger">40</integer>
+    <integer name="config_appsCustomizeWorkspaceShrinkTime">300</integer>
+    <integer name="config_appsCustomizeZoomInTime">350</integer>
+    <integer name="config_appsCustomizeZoomOutTime">600</integer>
+    <integer name="config_appsCustomizeZoomScaleFactor">7</integer>
+    <integer name="config_cameraDistance">8000</integer>
+    <integer name="config_dragFadeOutAlpha">80</integer>
+    <integer name="config_dragFadeOutDuration">250</integer>
+    <integer name="config_dragOutlineFadeTime">900</integer>
+    <integer name="config_dragOutlineMaxAlpha">128</integer>
+    <integer name="config_dropAnimMaxDist">800</integer>
+    <integer name="config_dropAnimMaxDuration">500</integer>
+    <integer name="config_dropAnimMinDuration">100</integer>
+    <integer name="config_dropTargetBgTransitionDuration">0</integer>
+    <integer name="config_dynamic_grid_max_long_edge_cell_count">6</integer>
+    <integer name="config_dynamic_grid_max_short_edge_cell_count">5</integer>
+    <integer name="config_dynamic_grid_min_edge_cell_count">3</integer>
+    <integer name="config_dynamic_grid_overview_icon_zone_percentage">20</integer>
+    <integer name="config_dynamic_grid_overview_scale_percentage">80</integer>
+    <integer name="config_flingToDeleteMinVelocity">-1500</integer>
+    <integer name="config_folderAnimDuration">120</integer>
+    <integer name="config_maxNumberOfPageIndicatorsToShow">21</integer>
+    <integer name="config_overviewTransitionTime">250</integer>
+    <integer name="config_tabTransitionDuration">250</integer>
+    <integer name="config_workspaceAppsCustomizeAnimationStagger">100</integer>
+    <integer name="config_workspaceDefaultScreen">0</integer>
+    <integer name="config_workspaceOverviewShrinkPercentage">90</integer>
+    <integer name="config_workspaceSpringLoadShrinkPercentage">80</integer>
+    <integer name="config_workspaceUnshrinkTime">300</integer>
+    <integer name="qsb_buttons_end_colorfilter">120</integer>
+    <integer name="qsb_end_alpha_state">220</integer>
+    <integer name="qsb_initial_alpha_state">55</integer>
+    <plurals name="number_of_items_selected">
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <string name="accessibility_all_apps_button">Apps</string>
+    <string name="accessibility_delete_button">Remove</string>
+    <string name="accessibility_search_button">Search</string>
+    <string name="accessibility_voice_search_button">Voice Search</string>
+    <string name="activity_not_found">App isn\'t installed.</string>
+    <string name="all_apps_button_label">Apps</string>
+    <string name="all_apps_home_button_label">Home</string>
+    <string name="announce_selection">Selected <ns1:g example="Wallpaper 3 of 10" id="label">%1$s</ns1:g></string>
+    <string name="app_filter_class" translatable="false"/>
+    <string name="app_settings">GENERAL</string>
+    <string name="application_copyright">Copyright \u00A9 2015 Phonemetra</string>
+    <string name="application_name" translatable="false">Turbo Launcher</string>
+    <string name="application_title">Turbo Launcher®</string>
+    <string name="application_version" translatable="false">0.0.1</string>
+    <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
+    <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
+    <string name="build_settings">BUILD</string>
+    <string name="cab_app_selection_text">1 app selected</string>
+    <string name="cab_folder_selection_text">1 folder selected</string>
+    <string name="cab_menu_app_info">App details</string>
+    <string name="cab_menu_delete_app">Uninstall app</string>
+    <string name="cab_shortcut_selection_text">1 shortcut selected</string>
+    <string name="cab_widget_selection_text">1 widget selected</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="completely_out_of_space">No more room on your Home screens.</string>
+    <string name="crop_wallpaper">Crop wallpaper</string>
+    <string name="debug_memory_activity">* HPROF</string>
+    <string name="default_screen_button_text">Default screen</string>
+    <string name="default_scroll_format">Page %1$d of %2$d</string>
+    <string name="delete_target_label">Remove</string>
+    <string name="delete_target_uninstall_label">Uninstall</string>
+    <string name="delete_zone_label_all_apps">Uninstall</string>
+    <string name="delete_zone_label_all_apps_system_app">Uninstall update</string>
+    <string name="delete_zone_label_workspace">Remove</string>
+    <string name="dock_settings">DOCK</string>
+    <string name="drawer_settings">DRAWER</string>
+    <string name="drawer_sorting_text">Sorting mode</string>
+    <string name="external_drop_widget_error">Couldn\'t drop item on this Home screen.</string>
+    <string name="external_drop_widget_pick_format" translatable="false">%1$s (%2$d \u00d7 %3$d)</string>
+    <string name="external_drop_widget_pick_title">Choose widget to create</string>
+    <string name="filter_button_text">Filter</string>
+    <string name="folder_closed">Folder closed</string>
+    <string name="folder_hint_text">Unnamed Folder</string>
+    <string name="folder_name"/>
+    <string name="folder_name_format">Folder: <ns1:g example="Games" id="name">%1$s</ns1:g></string>
+    <string name="folder_opened">Folder opened, <ns1:g example="5" id="width">%1$d</ns1:g> by <ns1:g example="3" id="height">%2$d</ns1:g></string>
+    <string name="folder_renamed">Folder renamed to <ns1:g example="Games" id="name">%1$s</ns1:g></string>
+    <string name="folder_tap_to_close">Touch to close folder</string>
+    <string name="folder_tap_to_rename">Touch to save rename</string>
+    <string name="gadget_error_text">Problem loading widget</string>
+    <string name="google_title" translatable="false">Google</string>
+    <string name="group_applications">Apps</string>
+    <string name="group_shortcuts">Shortcuts</string>
+    <string name="group_wallpapers">Wallpapers</string>
+    <string name="group_widgets">Widgets</string>
+    <string name="help_url" translatable="false"/>
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hide_icon_labels">Hide icon labels</string>
+    <string name="home">Home</string>
+    <string name="home_screen_search_text">Search bar</string>
+    <string name="home_screen_settings">HOMESCREEN</string>
+    <string name="hotseat_out_of_space">No more room in the Favorites tray</string>
+    <string name="image_load_fail">Coudn\'t load image</string>
+    <string name="info_target_label">App info</string>
+    <string name="invalid_hotseat_item">This widget is too large for the Favorites tray</string>
+    <string name="larger_icons_text">Larger icons</string>
+    <string name="launcher_settings">LAUNCHER SETTINGS</string>
+    <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
+    <string name="market">Shop</string>
+    <string name="menu_hidden_apps_delete">Restore</string>
+    <string name="menu_item_add_item">Add to Home screen</string>
+    <string name="out_of_space">No more room on this Home screen.</string>
+    <string name="permdesc_install_shortcut">Allows an app to add
+        shortcuts without user intervention.</string>
+    <string name="permdesc_read_settings">Allows the app to read the settings and
+        shortcuts in Home.</string>
+    <string name="permdesc_uninstall_shortcut">Allows the app to remove
+        shortcuts without user intervention.</string>
+    <string name="permdesc_write_settings">Allows the app to change the settings and
+        shortcuts in Home.</string>
+    <string name="permlab_install_shortcut">install shortcuts</string>
+    <string name="permlab_read_settings">read Home settings and shortcuts</string>
+    <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
+    <string name="permlab_write_settings">write Home settings and shortcuts</string>
+    <string name="pick_image">Pick image</string>
+    <string name="pick_wallpaper">Wallpapers</string>
+    <string name="pref_summary_theme_font">Deselect this to use default font</string>
+    <string name="pref_summary_theme_icons">Deselect this to use default icons</string>
+    <string name="pref_summary_theme_package">Choose your theme for Turbo Launcher</string>
+    <string name="pref_summary_theme_preview">Preview of the selected theme</string>
+    <string name="pref_summary_theme_settings">Select themes for Turbo Launcher</string>
+    <string name="pref_themes_apply_theme">Apply theme!</string>
+    <string name="pref_themes_get_themes">Get themes!</string>
+    <string name="pref_title_theme_font">Use Theme Font</string>
+    <string name="pref_title_theme_icons">Use Theme Icons</string>
+    <string name="pref_title_theme_package">Select your theme</string>
+    <string name="pref_title_theme_preview">Theme Preview</string>
+    <string name="pref_title_theme_settings">Themes</string>
+    <string name="preferences_application_title">App</string>
+    <string name="preferences_interface_dock_title">Dock</string>
+    <string name="preferences_interface_drawer_apps_category">Apps</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_summary">Remove shortcuts of the hidden apps on home screen</string>
+    <string name="preferences_interface_drawer_hidden_apps_shortcuts_title">Remove shortcuts</string>
+    <string name="preferences_interface_drawer_hidden_apps_summary">Hide apps on drawer</string>
+    <string name="preferences_interface_drawer_hidden_apps_title">Hidden Apps</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_summary">Remove widgets of the hidden apps on home screen</string>
+    <string name="preferences_interface_drawer_hidden_apps_widgets_title">Remove widgets</string>
+    <string name="preferences_interface_drawer_hide_icon_labels_summary">Hide icon labels on drawer</string>
+    <string name="preferences_interface_drawer_hide_icon_labels_title">Hide icon labels</string>
+    <string name="preferences_interface_drawer_scrolling_transition_effect">stack</string>
+    <string name="preferences_interface_drawer_summary">Drawer app and widget</string>
+    <string name="preferences_interface_drawer_title">Drawer</string>
+    <string name="preferences_interface_general_icons_category">Icons</string>
+    <string name="preferences_interface_general_icons_large_summary">Set Icons large on home screen and drawer</string>
+    <string name="preferences_interface_general_icons_large_title">Icons large</string>
+    <string name="preferences_interface_general_icons_text_style_summary">Set icons text style</string>
+    <string name="preferences_interface_general_icons_text_style_title">Icons text style</string>
+    <string name="preferences_interface_general_title">General</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_summary">Hide icon labels on home screen</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_title">Hide icon labels</string>
+    <string name="preferences_interface_homescreen_scrolling_transition_effect">none</string>
+    <string name="preferences_interface_homescreen_search_summary">Show search bar</string>
+    <string name="preferences_interface_homescreen_search_title">Search bar</string>
+    <string name="preferences_interface_homescreen_title">Home Screen</string>
+    <string name="preferences_title">Settings</string>
+    <string name="protected_app_settings">Protected apps</string>
+    <string name="rename_action">OK</string>
+    <string name="rename_folder_label">Folder name</string>
+    <string name="rename_folder_title">Rename folder</string>
+    <string name="scroll_effect_text">Scroll effect</string>
+    <string name="scrolling_fade_adjacent">Fade side pages</string>
+    <string name="scrolling_page_outlines">Page outlines</string>
+    <string name="scrolling_wallpaper">Scroll wallpaper</string>
+    <string name="setting_state_off">OFF</string>
+    <string name="setting_state_on">ON</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="shortcut_duplicate">Shortcut \"<ns1:g example="Browser" id="name">%s</ns1:g>\" already exists.</string>
+    <string name="shortcut_installed">Shortcut \"<ns1:g example="Browser" id="name">%s</ns1:g>\" created.</string>
+    <string name="shortcut_uninstalled">Shortcut \"<ns1:g example="Browser" id="name">%s</ns1:g>\" was removed.</string>
+    <string name="sort_button_text">Sort</string>
+    <string name="sort_mode_install_time">Install time</string>
+    <string name="sort_mode_launch_count">Launch count</string>
+    <string name="sort_mode_title">Title</string>
+    <string name="themes_button_text">Themes</string>
+    <string name="title_select_application">Choose app</string>
+    <string name="title_select_shortcut">Choose shortcut</string>
+    <string name="transition_effect_button_text">Scroll Effect</string>
+    <string name="uid_name">Android Core Apps</string>
+    <string name="uninstall_system_app_text">This is a system app and can\'t be uninstalled.</string>
+    <string name="wallpaper_accessibility_name">Wallpaper %1$d of %2$d</string>
+    <string name="wallpaper_button_text">Wallpapers</string>
+    <string name="wallpaper_delete">Delete</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="wallpaper_load_fail">Couldn\'t load image as wallpaper</string>
+    <string name="wallpaper_scroll">Wallpaper scroll</string>
+    <string name="widget_adder">Widgets</string>
+    <string name="widget_button_text">Widgets</string>
+    <string name="widget_dims_format">%1$d \u00d7 %2$d</string>
+    <string name="widgets_tab_label">Widgets</string>
+    <string name="workspace_description_format">Home screen %1$d</string>
+    <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
+    <style name="ActionBarSetWallpaperStyle" parent="@android:style/Widget.Holo.ActionButton">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="DropTargetButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">7.5dp</item>
+        <item name="android:paddingLeft">25dp</item>
+        <item name="android:paddingRight">25dp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style>
+    <style name="DropTargetButtonContainer">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="MarketButton">
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textColor">@color/workspace_all_apps_and_delete_zone_text_color</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:shadowColor">@color/workspace_all_apps_and_delete_zone_text_shadow_color</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="PagedViewWidgetImageView">
+        <item name="android:paddingLeft">@dimen/app_widget_preview_padding_left</item>
+    </style>
+    <style name="SearchButton"/>
+    <style name="SearchButton.WithPaddingStart">
+        <item name="android:paddingLeft">8dp</item>
+    </style>
+    <style name="SearchDropTargetBar"/>
+    <style name="TabIndicator">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:background">@drawable/tab_widget_indicator_selector</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="TabIndicator.AppsCustomize">
+        <!-- Overridden in values-land -->
+    </style>
+    <style name="Theme" parent="@android:style/Theme.Holo.Wallpaper.NoTitleBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.WallpaperCropper" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/WallpaperCropperActionBar</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="Theme.WallpaperPicker" parent="Theme.WallpaperCropper">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="WallpaperCropperActionBar" parent="android:style/Widget.Holo.ActionBar">
+        <item name="android:displayOptions">showCustom</item>
+        <item name="android:background">#88000000</item>
+    </style>
+    <style name="WorkspaceIcon">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textColor">@color/workspace_icon_text_color</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:shadowColor">#B0000000</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="WorkspaceIcon.AppsCustomize">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/apps_customize_icon_text_color</item>
+        <item name="android:drawablePadding">@dimen/dynamic_grid_icon_drawable_padding</item>
+        <item name="android:shadowRadius">4.0</item>
+        <item name="android:shadowColor">#FF000000</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape"/>
+    <style name="WorkspaceIcon.Portrait"/>
+</resources>

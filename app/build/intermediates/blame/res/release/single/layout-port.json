@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-port\\launcher.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-port\\launcher.xml"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\layout-port\\qsb.xml",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\layout-port\\qsb.xml"
+    }
+]

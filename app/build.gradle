@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.phonemetra.turbo.launcher"
+        minSdkVersion 16
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+    lintOptions{
+        //checkReleaseBuilds false
+        abortOnError false;
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.2.1'
+    compile files('libs/libprotobuf-java-2.3.0-nano.jar')
+
+    compile project(':itus')
+}

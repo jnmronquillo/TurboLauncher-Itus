@@ -1,0 +1,4 @@
+#Wed Nov 23 16:30:49 COT 2016
+base.0=D\:\\studio\\TurboLauncher\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\studio\\TurboLauncher\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

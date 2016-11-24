@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\portal_ring_inner_nolip_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\portal_ring_inner_nolip_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\overscroll_glow_right.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\overscroll_glow_right.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\ic_allapps.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\ic_allapps.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\portal_ring_inner_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\homescreen_blue_normal_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\homescreen_blue_normal_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\overscroll_glow_left.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\overscroll_glow_left.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\homescreen_blue_strong_holo.9.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\homescreen_blue_strong_holo.9.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\ic_allapps_pressed.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\ic_allapps_pressed.png"
+    },
+    {
+        "merged": "D:\\studio\\TurboLauncher\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw600dp-xxhdpi\\portal_ring_outer_holo.png",
+        "source": "D:\\studio\\TurboLauncher\\app\\src\\main\\res\\drawable-sw600dp-xxhdpi\\portal_ring_outer_holo.png"
+    }
+]

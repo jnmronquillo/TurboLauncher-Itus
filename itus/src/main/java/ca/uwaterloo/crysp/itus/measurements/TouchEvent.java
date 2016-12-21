@@ -78,7 +78,7 @@ public abstract class TouchEvent extends Measurement {
 		    "20% perc. Deviation from end-to-end line",
 		    "50% perc. Deviation from end-to-end line",
 			"80% perc. Deviation from end-to-end line",
-			"First touch area",
+			"First touch area",//
 			"First moving direction",
 			"Average moving direction",
 			"Average moving curvature",
